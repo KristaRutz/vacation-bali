@@ -1,4 +1,10 @@
-img {
+
+
+.row img {
+  width: 200px;
+}
+
+#mainImage {
   border-color: gold;
   border-width: 5px;
   border-style: solid;
