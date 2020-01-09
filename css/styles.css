@@ -1,0 +1,16 @@
+img {
+  border-color: gold;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 50%;
+  box-shadow: 3px 3px 10px #000000;
+  margin: 20px;
+}
+
+body {
+  background-color: #34E0E5;
+}
+
+.reviews {
+  margin: 10px;
+}
