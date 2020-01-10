@@ -6,6 +6,8 @@
 
 #mainImage {
   border-color: gold;
+  width: 300px;
+  float: left;
   border-width: 5px;
   border-style: solid;
   border-radius: 50%;
