@@ -7,10 +7,9 @@
 #mainImage {
   border-color: gold;
   width: 300px;
-  float: left;
   border-width: 5px;
   border-style: solid;
-  border-radius: 50%;
+  border-radius: 10%;
   box-shadow: 3px 3px 10px #000000;
   margin: 20px;
 }
